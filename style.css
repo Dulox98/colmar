@@ -13,7 +13,6 @@
 .div1 {
     display: flex;
     letter-spacing: 0.5px;
-    
 }
  a {
      height: 15px;
@@ -22,7 +21,11 @@
      margin-top: 10px;
      width: 100px;
      margin-right: 24px;
-     
-     
  }
-
+.div2 {
+    background-color: gainsboro;
+}
+.banner {
+    height: 700px;
+    width: 60%;
+}
